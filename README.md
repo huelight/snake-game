@@ -1,8 +1,9 @@
 # Snake Game
+This is a simple Snake game implemented in Python using the Turtle graphics library. The game replicates the classic Snake Xenzia game found on old Nokia phones. You control a snake that grows longer as it consumes food while avoiding collisions with itself and the game boundaries.
 
 ![Snake Game Screenshot](snake_game_screenshot.png)
 
-This is a simple Snake game implemented in Python using the Turtle graphics library. The game replicates the classic Snake Xenzia game found on old Nokia phones. You control a snake that grows longer as it consumes food while avoiding collisions with itself and the game boundaries.
+
 
 ## How to Play
 
